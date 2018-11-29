@@ -20,15 +20,15 @@ Nous avons également ajouté un MOSFET afin de pouvoir piloter en puissance.
 
 Enfin, nous intégrons une puce de communication LoRa RN2483, qui va nous permettre l&#39;envoi des données en utilisant TTN (The Things Network). C&#39;est sur cet envoi de données que porte la partie suivante.
 
-![Conception](./images/Conception_part_1.PNG)
-![Conception](./images/Conception_part_2.PNG)
-![Conception](./images/Conception_part_3.PNG)
+![Conception](./Gjetrang_Lesot_KiCad/images/Conception_part_1.PNG)
+![Conception](./Gjetrang_Lesot_KiCad/images/Conception_part_2.PNG)
+![Conception](./Gjetrang_Lesot_KiCad/images/Conception_part_3.PNG)
 _Fig.1 : Schéma de conception de notre circuit sur KiCad_
 
-![Layout](./images/Layout.PNG)
+![Layout](./Gjetrang_Lesot_KiCad/images/Layout.PNG)
 _Fig.2 : layout de notre circuit sur KiCad_
 
-![Rendu 3D](./images/Rendu_3D.PNG) 
+![Rendu 3D](./Gjetrang_Lesot_KiCad/images/Rendu_3D.PNG) 
 _Fig.3 : Rendu 3D de notre circuit_
 
 ## III/ Partie software : code Arduino, envoi de données
