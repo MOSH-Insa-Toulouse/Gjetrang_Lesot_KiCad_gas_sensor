@@ -24,15 +24,15 @@ Enfin, nous intégrons une puce de communication LoRa RN2483, qui va nous permet
 ![Conception](https://github.com/RemiINSA/KiCad_gas_sensor/blob/master/Gjetrang_Lesot_KiCad/Images/Conception_part_2.PNG)
 ![Conception](https://github.com/RemiINSA/KiCad_gas_sensor/blob/master/Gjetrang_Lesot_KiCad/Images/Conception_part_3.PNG)
           
-         _Fig.1 : Schéma de conception de notre circuit sur KiCad_
+                              _Fig.1 : Schéma de conception de notre circuit sur KiCad_
   
 ![Layout](https://github.com/RemiINSA/KiCad_gas_sensor/blob/master/Gjetrang_Lesot_KiCad/Images/Layout.PNG)
        
-         _Fig.2 : layout de notre circuit sur KiCad_
+                               _Fig.2 : layout de notre circuit sur KiCad_
 
 ![Rendu 3D](https://github.com/RemiINSA/KiCad_gas_sensor/blob/master/Gjetrang_Lesot_KiCad/Images/Rendu_3D.PNG) 
           
-         _Fig.3 : Rendu 3D de notre circuit_
+                                _Fig.3 : Rendu 3D de notre circuit_
 
 ## III/ Partie software : code Arduino, envoi de données
 
