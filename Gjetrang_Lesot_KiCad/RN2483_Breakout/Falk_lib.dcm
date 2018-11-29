@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1050
+D AOP
+K DIP*8*
+$ENDCMP
+#
+#End Doc Library
